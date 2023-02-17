@@ -1,2 +1,2 @@
 # pre-commit
-This repository to validate pre-commit
+Git pre-commit hook to run tested and added
